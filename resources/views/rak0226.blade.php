@@ -7,6 +7,7 @@
 <div class="row">
 <div class="col-15">
     <h1 class="mt-2">Rak Buku</h1>
+    <a class="btn btn-primary" href="/exportexcel" role="button">Export</a>
     <table class="table">
     <thead class="thead-dark">
     <tr>

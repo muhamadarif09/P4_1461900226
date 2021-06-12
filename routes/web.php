@@ -20,3 +20,5 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', 'PagesController@rak');
 
 Route::get('/', 'RakController@index');
+
+Route::get('exportexcel', 'RakController@export')->name('exportexcel');
